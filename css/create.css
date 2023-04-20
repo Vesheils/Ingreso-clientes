@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(#141e30, #243b55);
+}
+
+.form-container {
+    text-size-adjust: 10px;
+    background-color: #243b55;
+    padding: 20px;
+    border-radius: 5px;
+    align-content: center;
+}
+
+.form-control:focus {
+    border-color: #03e9f4;
+}
+.col-sm-8{
+    color: #03e9f4;
+    
+}
+.col-sm-4{
+    align-content: justify;
+}
+label {
+    color: #03e9f4;
+}
